@@ -2,6 +2,7 @@
 The Customer Overview Dashboard is a data visualization tool that provides an overview of the top ten customers' sales. It includes charts and a summary to help you analyze customer performance and make informed business decisions.
 
 Features
+
 Top Ten Customer Sales: Displays the sales performance of the top ten customers.
 Bar Chart: Visualizes the sales data of the top ten customers using a bar chart.
 Pie Chart (per segment): Represents the distribution of sales per segment among the top ten customers using individual pie charts for each segment.
