@@ -1,4 +1,5 @@
-Customer Overview Dashboard
+#Customer Overview Dashboard
+
 The Customer Overview Dashboard is a data visualization tool that provides an overview of the top ten customers' sales. It includes charts and a summary to help you analyze customer performance and make informed business decisions.
 
 Features
