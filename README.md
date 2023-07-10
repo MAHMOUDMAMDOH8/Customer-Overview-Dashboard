@@ -14,3 +14,4 @@ Line Chart: Displays the profit over time between 2011 and 2014 using a line cha
 
 Overview: Provides a summary of the overall sales performance and key insights.
 
+![Screenshot](https://github.com/MAHMOUDMAMDOH8/Customer-Overview-Dashboard/assets/111503676/0471d5b7-01b8-4d43-8b99-c5ff9a83e119)
